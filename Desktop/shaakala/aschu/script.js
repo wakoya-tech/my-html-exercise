@@ -4,6 +4,7 @@
     const target = e.target;
     if(target.matches('li'))
     {
+    
         target.style.backgroundColor = 'lightgrey'
     }
 })
