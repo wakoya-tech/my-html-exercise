@@ -4,6 +4,7 @@
     box-sizing: border-box;
     font-family: 'Lato',sans-serif;
 }
+
 body {
     height: 100vh;
     background: url(../img/img5.jpg) no-repeat center center / cover;
