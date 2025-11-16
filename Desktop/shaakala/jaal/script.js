@@ -7,6 +7,7 @@ for(i=0; i < listitems.length; i++)
   listitems[i].style.fontSize = '1rem';  
 }
 /*
+
 console.log(listitems);*
 /*
 const ul = document.querySelector('ul');
