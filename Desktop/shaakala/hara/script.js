@@ -11,6 +11,7 @@ document.querySelector('.div2').addEventListener("click", function(e){
   //  e.stopPropagation()
     console.log('DIV 2');
 },true);
+
 document.querySelector('.div1').addEventListener("click", function(){
     console.log('DIV 1');
 },true);
