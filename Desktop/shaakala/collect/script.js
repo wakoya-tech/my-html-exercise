@@ -20,6 +20,7 @@ task.appendChild(deleteButton);
 if(inputTask.value === ""){
     alert('please enter a value')
 }
+    
 else {
     taskContainer.appendChild(task);
 }
