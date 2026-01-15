@@ -12,7 +12,6 @@ let checkButton = document.createElement("button");
 checkButton.innerHTML ='<i class="fa fa-check"></i>';
 checkButton.classList.add('checkTask');
 task.appendChild(checkButton);
-
 let deleteButton = document.createElement("button");
 deleteButton.innerHTML ='<i class="fa fa-trash-can"></i>';
 deleteButton.classList.add('deleteTask');
