@@ -20,6 +20,7 @@ if(inputTask.value === ""){
     alert('please enter a value')
 }  
 else {
+    
     taskContainer.appendChild(task);
 }
 inputTask.value= "";
