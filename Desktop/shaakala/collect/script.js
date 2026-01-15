@@ -17,7 +17,6 @@ deleteButton.innerHTML ='<i class="fa fa-trash-can"></i>';
 deleteButton.classList.add('deleteTask');
 task.appendChild(deleteButton);
 if(inputTask.value === ""){
-    
     alert('please enter a value')
 }  
 else {
